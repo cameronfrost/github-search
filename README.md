@@ -1,2 +1,2 @@
-# github-search
-Github Search App
+# Github Search
+Github search project built using vanilla JS
